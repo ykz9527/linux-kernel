@@ -1,0 +1,39 @@
+---
+sourceLocationPrefix: /Users/yukai/Desktop/local_git/linux-5.4.278
+baselineLinesOfCode: 17175997
+unicodeNewlines: false
+columnKind: utf8
+primaryLanguage: cpp
+inProgress:
+  primaryLanguage: cpp
+  installedExtractors:
+    go:
+     - /Users/yukai/Desktop/local_git/codeql-cli/go
+    python:
+     - /Users/yukai/Desktop/local_git/codeql-cli/python
+    java:
+     - /Users/yukai/Desktop/local_git/codeql-cli/java
+    html:
+     - /Users/yukai/Desktop/local_git/codeql-cli/html
+    xml:
+     - /Users/yukai/Desktop/local_git/codeql-cli/xml
+    properties:
+     - /Users/yukai/Desktop/local_git/codeql-cli/properties
+    cpp:
+     - /Users/yukai/Desktop/local_git/codeql-cli/cpp
+    swift:
+     - /Users/yukai/Desktop/local_git/codeql-cli/swift
+    csv:
+     - /Users/yukai/Desktop/local_git/codeql-cli/csv
+    yaml:
+     - /Users/yukai/Desktop/local_git/codeql-cli/yaml
+    csharp:
+     - /Users/yukai/Desktop/local_git/codeql-cli/csharp
+    javascript:
+     - /Users/yukai/Desktop/local_git/codeql-cli/javascript
+    ruby:
+     - /Users/yukai/Desktop/local_git/codeql-cli/ruby
+creationMetadata:
+  cliVersion: 2.17.5
+  creationTime: 2024-06-19T09:13:21.803202Z
+finalised: false

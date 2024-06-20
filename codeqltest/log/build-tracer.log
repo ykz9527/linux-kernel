@@ -1,0 +1,14 @@
+[T 09:13:21 24096] CodeQL CLI version 2.17.5
+[T 09:13:21 24096] Initializing tracer.
+[T 09:13:21 24096] Initializing tags.
+[T 09:13:21 24096] ID set to 0000000000005E20_0000000000000001 (parent root)
+[T 09:13:22 24096] Initializing tracer.
+[T 09:13:22 24096] Initializing tags.
+[T 09:13:22 24096] ID set to 0000000000005E20_0000000000000002 (parent root)
+[T 09:13:22 24096] Warning: SEMMLE_EXEC and SEMMLE_EXECP not set. Falling back to path lookup on argv[0].
+[T 09:13:22 24096] ==== Candidate to intercept: /Users/yukai/Desktop/local_git/codeql-cli/tools/osx64/runner-osx (canonical: /Users/yukai/Desktop/local_git/codeql-cli/tools/osx64/runner-osx) ====
+[T 09:13:22 24096] Executing the following tracer actions:
+[T 09:13:22 24096] Tracer actions:
+[T 09:13:22 24096] pre_invocations(0)
+[T 09:13:22 24096] post_invocations(0)
+[T 09:13:22 24096] trace_languages(1): [cpp]
